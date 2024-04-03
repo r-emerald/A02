@@ -2,8 +2,7 @@
 Creating Pipelines in Apache Beam!
 
 Before proceeding, it is recommended to create a virtual environment using venv.
-To install the required packages, use the following command: 
-```bash
+To install the required packages, use the following command: ```bash
 pip install -r requirements.txt
 
 Development was done on WSL2 on Windows 10.
